@@ -1,6 +1,6 @@
 I make code that i am passionate about. I like making almost anything.
 I like making random bits of code and random websites for fun.
-Co developer/Owner of a discord bot, HoloByte Synthia.
+Co developer/Owner of a discord bot, HoloByte Synthia with @itzdavidwastaken.
 
 My cats name is Mr pickles and he helps me by mashing the keyboard every 5 minutes
 
