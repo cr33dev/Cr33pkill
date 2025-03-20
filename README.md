@@ -11,13 +11,14 @@
 
 ***** Current Qualifications *****
 
-- GCSE Food tech
-- GCSE Buisness studies
-- GCSE Computer science
-- GCSE English LIT and LANG
-- GCSE Maths
-- GCSE Public speaking
+- GCSE Business Studies
 - GCSE Combined Science
+- GCSE Computer Science
+- GCSE English Language
+- GCSE English Literature
+- GCSE Food Technology
+- GCSE Maths
+- GCSE Public Speaking
 
 ***** Future Qualifications *****
 
