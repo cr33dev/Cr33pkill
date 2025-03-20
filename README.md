@@ -8,9 +8,9 @@ My cats name is Mr pickles and he helps me by mashing the keyboard every 5 minut
 - I am currently learning Python, HTML, Django
 - I am looking for help with gaining a better understanding of python and web-design
 
-I can easily make a simple static website, so reach out if you need one comissioned
+I can easily make a simple static website, so reach out if you need one comissioned.
 
-***** Current Qualifications *****
+#***** Current Qualifications *****
 - GCSE Food tech
 - GCSE Buisness studies
 - GCSE Computer science
@@ -18,5 +18,9 @@ I can easily make a simple static website, so reach out if you need one comissio
 - GCSE Maths
 - GCSE Public speaking
 - GCSE Combined Science
+
+#***** Future Qualifications *****
+
+- Digital Production- Design and Development T Level (working on this right now)
 
 profile art commisioned from - https://jellyfish-arts.neocities.org/
