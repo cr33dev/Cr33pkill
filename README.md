@@ -10,7 +10,7 @@ My cats name is Mr pickles and he helps me by mashing the keyboard every 5 minut
 
 I can easily make a simple static website, so reach out if you need one comissioned.
 
-#***** Current Qualifications *****
+***** Current Qualifications *****
 - GCSE Food tech
 - GCSE Buisness studies
 - GCSE Computer science
@@ -19,7 +19,7 @@ I can easily make a simple static website, so reach out if you need one comissio
 - GCSE Public speaking
 - GCSE Combined Science
 
-#***** Future Qualifications *****
+***** Future Qualifications *****
 
 - Digital Production- Design and Development T Level (working on this right now)
 
